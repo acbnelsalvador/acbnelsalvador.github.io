@@ -1,5 +1,4 @@
 # acbnelsalvador.github.io
-acbnelsalvador.github.io
 element {
     background-image: url(/assets/images/beautiful-2150881_1280.jpg);
 }
